@@ -76,7 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Roshni2330/Roshni2330/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
